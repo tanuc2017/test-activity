@@ -1,0 +1,7 @@
+This is a test file created for GitHub activity verification.
+
+Purpose:
+- To demonstrate creation of a file in a separate branch.
+- To later create a pull request and merge it into the main branch.
+
+Date: June 19, 2025
